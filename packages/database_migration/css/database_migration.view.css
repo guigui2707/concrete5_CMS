@@ -1,0 +1,12 @@
+.database-migration-wrapper .alert.alert-info,
+.ccm-ui .alert > p + pre {
+    margin-top: 10px;
+}
+
+.database-migration-wrapper .alert.alert-danger {
+    margin-bottom:15px;
+}
+
+.database-migration-wrapper .alert.alert-warning {
+    margin-top: 30px;
+}

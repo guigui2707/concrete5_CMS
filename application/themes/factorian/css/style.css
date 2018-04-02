@@ -1,0 +1,53 @@
+.ccm-page #Diaporama {
+  width: 100%;
+  height: 25em;
+  margin: 0;
+  background-image: url('../img/background.jpg');
+  background-size: auto;
+  background-repeat: no-repeat;
+}
+
+.ccm-page .white {
+  color: #FFFFFF;
+}
+
+.ccm-page .btn-yellow {
+  background-color: #ffc200;
+}
+
+.ccm-page .align-vertical {}
+
+.ccm-page .fit {
+  width: 100%;
+}
+
+.ccm-page #cta {
+  width: 100%;
+  background-color: black;
+  background-size: auto;
+  background-repeat: no-repeat;
+}
+
+.ccm-page #first{
+  width: 100%;
+  background-color:black;
+  color: #FFFFFF;
+}
+
+.ccm-page #footer a{
+  color:white;
+}
+
+.ccm-page #second{
+  background-color: grey;
+  width:100%;
+  color: #FFFFFF;
+}
+
+.ccm-page .centered{
+  margin-top:5%;
+}
+
+.ccm-page .center{
+  text-align:center;
+}
